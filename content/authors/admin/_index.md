@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Causal inference and machine learning <br> (CIaML)
+title: Causal inference and machine learning  (CIaML)
 
 # Is this the primary user of the site?
 superuser: true
