@@ -10,7 +10,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Mount Sinai
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
