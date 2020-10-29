@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Jiayi Ji
+title: Joyce Lin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Biostatistician
 
 # Organizations/Affiliations
 # organizations:
@@ -14,7 +14,7 @@ role: Assistant Professor
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Liangyuan Hu, PhD. Dr. Hu is an Assistant Professor of Biostatistics in the Department of Population Health Science & Policy at Mount Sinai School of Medicine. She is also affiliated with the Tisch Cancer Institute and the Institute for Health Care Delivery Science.  She received her PhD in Biostatistics from Brown University. Dr. Hu’s research focuses on statistical methods for causal inference, missing data, survival analysis, longitudinal data analysis, Bayesian inference and machine learning. Dr. Hu is principal investigator of a PCORI grant developing and improving statistical methods for the estimation of causal effects and the handling of unmeasured confounding in the context of multiple treatments, and principal investigator of an NIH grant developing Bayesian machine learning methods for causal inference with multiple treatments and multilevel survival data.
+# bio: Liangyuan Hu, PhD. Dr. Hu is an Assistant Professor of Biostatistics in the Department of Population Health Science & Policy at Mount Sinai School of Medicine. She is also affiliated with the Tisch Cancer Institute and the Institute for Health Care Delivery Science.  She received her PhD in Biostatistics from Brown University. Dr. Hu’s research focuses on statistical methods for causal inference, missing data, survival analysis, longitudinal data analysis, Bayesian inference and machine learning. Dr. Hu is principal investigator of a PCORI grant developing and improving statistical methods for the estimation of causal effects and the handling of unmeasured confounding in the context of multiple treatments, and principal investigator of an NIH grant developing Bayesian machine learning methods for causal inference with multiple treatments and multilevel survival data.
 
 interests:
 - Causal inference
@@ -39,16 +39,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: mailto:Jiayi.Ji@mountsinai.org  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/JiayiJi
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jijiayi/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
