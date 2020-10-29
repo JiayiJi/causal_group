@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Liangyuan Hu
+title: Joyce Lin
 
 # Is this the primary user of the site?
 superuser: true
@@ -64,8 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Biostatiscian
 ---
 
 Liangyuan Hu, PhD. Dr. Hu is an Assistant Professor of Biostatistics in the Department of Population Health Science & Policy at Mount Sinai School of Medicine. She is also affiliated with the Tisch Cancer Institute and the Institute for Health Care Delivery Science.  She received her PhD in Biostatistics from Brown University. Dr. Hu’s research focuses on statistical methods for causal inference, missing data, survival analysis, longitudinal data analysis, Bayesian inference and machine learning. Dr. Hu is principal investigator of a PCORI grant developing and improving statistical methods for the estimation of causal effects and the handling of unmeasured confounding in the context of multiple treatments, and principal investigator of an NIH grant developing Bayesian machine learning methods for causal inference with multiple treatments and multilevel survival data.
