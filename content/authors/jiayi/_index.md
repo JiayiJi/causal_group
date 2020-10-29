@@ -20,6 +20,8 @@ interests:
 - Causal inference
 - Public Health
 
+image = "jiayi.jpg"
+
 education:
   courses:
   - course: M.S in Biostatistics
