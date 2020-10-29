@@ -21,8 +21,8 @@ interests:
 - Public Health
 
 
-[header]
-image = "headers/jiayi.jpg" 
+header:
+  image = "jiayi.jpg" 
 
 education:
   courses:
