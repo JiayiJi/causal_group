@@ -3,7 +3,7 @@
 title: Causal inference and machine learning  (CIaML)
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 # role: Assistant Professor
