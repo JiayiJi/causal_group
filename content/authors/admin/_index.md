@@ -66,7 +66,6 @@ highlight_name: false
 # user_groups:
 # - Researchers
 # - Visitors
-image: "jiayi.jpg" 
 ---
 
 To be added
