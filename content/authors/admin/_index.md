@@ -1,37 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Causal inference and machine learning  (CIaML)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+# role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Department of Population Health Science & Policy at Mount Sinai School of Medicine
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: Liangyuan Hu, PhD. Dr. Hu is an Assistant Professor of Biostatistics in the Department of Population Health Science & Policy at Mount Sinai School of Medicine. She is also affiliated with the Tisch Cancer Institute and the Institute for Health Care Delivery Science.  She received her PhD in Biostatistics from Brown University. Dr. Hu’s research focuses on statistical methods for causal inference, missing data, survival analysis, longitudinal data analysis, Bayesian inference and machine learning. Dr. Hu is principal investigator of a PCORI grant developing and improving statistical methods for the estimation of causal effects and the handling of unmeasured confounding in the context of multiple treatments, and principal investigator of an NIH grant developing Bayesian machine learning methods for causal inference with multiple treatments and multilevel survival data.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+# - Causal inference
+# - Bayesian inference and machine learning
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+# education:
+#   courses:
+#   - course: PhD in Biostatistics
+#     institution: Stanford University
+#     year: 2016
+  # - course: MEng in Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   year: 2009
+  # - course: BSc in Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,11 +63,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+To be added
