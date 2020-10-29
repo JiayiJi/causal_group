@@ -20,7 +20,9 @@ interests:
 - Causal inference
 - Public Health
 
-image = "jiayi.jpg"
+header:
+  image: 'jiayi.jpg'
+
 
 education:
   courses:
