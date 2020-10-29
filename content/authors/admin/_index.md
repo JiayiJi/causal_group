@@ -68,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Liangyuan Hu, PhD. Dr. Hu is an Assistant Professor of Biostatistics in the Department of Population Health Science & Policy at Mount Sinai School of Medicine. She is also affiliated with the Tisch Cancer Institute and the Institute for Health Care Delivery Science.  She received her PhD in Biostatistics from Brown University. Dr. Hu’s research focuses on statistical methods for causal inference, missing data, survival analysis, longitudinal data analysis, Bayesian inference and machine learning. Dr. Hu is principal investigator of a PCORI grant developing and improving statistical methods for the estimation of causal effects and the handling of unmeasured confounding in the context of multiple treatments, and principal investigator of an NIH grant developing Bayesian machine learning methods for causal inference with multiple treatments and multilevel survival data.
